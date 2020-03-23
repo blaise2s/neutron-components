@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "neutron-components": {
+    "neutron-components-angular": {
       "projectType": "library",
       "root": "",
       "sourceRoot": "src",
@@ -39,5 +39,5 @@
       }
     }
   },
-  "defaultProject": "neutron-components"
+  "defaultProject": "neutron-components-angular"
 }
