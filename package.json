@@ -1,6 +1,6 @@
 {
-  "name": "neutron-components-angular",
-  "version": "0.0.2",
+  "name": "neutron-components",
+  "version": "0.0.6",
   "scripts": {
     "build": "ng build",
     "e2e": "ng e2e",
@@ -66,12 +66,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blaise2s/neutron-components-angular.git"
+    "url": "git+https://github.com/blaise2s/neutron-components.git"
   },
   "author": "Blaise Schaeffer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blaise2s/neutron-components-angular/issues"
+    "url": "https://github.com/blaise2s/neutron-components/issues"
   },
   "husky": {
     "hooks": {
